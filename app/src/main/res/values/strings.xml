@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NotificationDemo</string>
+    <string name="text_tvTitle">Title</string>
+    <string name="text_tvContent">Content</string>
+    <string name="text_btSend">Send notification</string>
+    <string name="text_btCancel">Cancel notification</string>
+    <string name="title_email_activity">EmailActivity</string>
+
+</resources>
